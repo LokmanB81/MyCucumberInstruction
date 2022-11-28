@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="1.803">
+    <testcase classname="TC001 Tutorials sayfa testi" name="Tutorials sayfasinda urunleri sepete ekler" time="0.179">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given Kullanici tutorials anasaysaina gider.................................undefined
+Then Kullanici Phones & PDAs a tiklar.......................................skipped
+Then Kullanici telefon marka isimlerini log eder............................skipped
+Then Kullanici tum ogeleri sepete ekler.....................................skipped
+Then Kullanici sepete tiklar................................................skipped
+Then Kullanici sepetteki urun isimlerini log eder...........................skipped
+Then Kullanici sepet ve sayfadaki urunlerin ayni oldugunu dogrular..........skipped
+And Kullanici sayfayi kapatir...............................................skipped
+]]>
+        </failure>
+    </testcase>
+</testsuite>

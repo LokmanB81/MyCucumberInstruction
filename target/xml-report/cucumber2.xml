@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="37" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="37" time="2.35">
+    <testcase classname="Tc Verify Test Cases" name="TC_007 Test Cases" time="0.098">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici automationexercise.com urlsine gider........................undefined
+Then kullanici Ana sayfanin gorunur oldugunu dogrular.......................skipped
+And kullanici Test Case buttonu na tiklar...................................skipped
+And kullanici Test Case sayfasina geldigini dogrular........................skipped
+And kullanici ilgili sayfanin ekran goruntusunu alir........................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="US001_Amazonda search background ile" name="TC01 kullanici amazonda iPhone aratir" time="0.019">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici amazon anasayfasina gider...................................undefined
+Then kullanci iPhone aratir.................................................skipped
+And kullanici arama sonuclarinin iPhone icerdigini gorur....................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="US001_Amazonda search background ile" name="TC02 kullanici amazonda Selenium aratir" time="0.01">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici amazon anasayfasina gider...................................undefined
+Then kullanci selenium aratir...............................................skipped
+And kullanici arama sonuclarinin selenium icerdigini gorur..................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="US001_Amazonda search background ile" name="TC03 kullanici amazonda java aratir" time="0.035">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici amazon anasayfasina gider...................................undefined
+Then kullanci java aratir...................................................skipped
+And kullanici arama sonuclarinin java icerdigini gorur......................skipped
+And kullanici sayfayi kapatir...............................................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="US002 Parametre Kullanimi" name="TC001 Kullanici amazonda parametreli arama yapar" time="0.009">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici amazon anasayfasina gider...................................undefined
+Then kullanici "nutella " icin arama yapar..................................skipped
+And sonuclarin "nutella" icerdigini test eder...............................skipped
+And kullanici sayfayi kapatir...............................................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="US_006 Kullanici amazonda istedigi kelimeleri aratir" name="TC_001 Kullanici amazonda coklu arama yapar" time="0.006">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici amazon anasayfasina gider...................................undefined
+Then "pencil" icin arama yapar..............................................skipped
+Then kullanici arama sonucunu yazdirir......................................skipped
+Then kullanici sonucun "pencil" icerdigini dogrular.........................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="US_006 Kullanici amazonda istedigi kelimeleri aratir" name="TC_001 Kullanici amazonda coklu arama yapar 2" time="0.006">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici amazon anasayfasina gider...................................undefined
+Then "milk" icin arama yapar................................................skipped
+Then kullanici arama sonucunu yazdirir......................................skipped
+Then kullanici sonucun "milk" icerdigini dogrular...........................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="US_006 Kullanici amazonda istedigi kelimeleri aratir" name="TC_001 Kullanici amazonda coklu arama yapar 3" time="0.004">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici amazon anasayfasina gider...................................undefined
+Then "tomatoe" icin arama yapar.............................................skipped
+Then kullanici arama sonucunu yazdirir......................................skipped
+Then kullanici sonucun "tomatoe" icerdigini dogrular........................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="US_006 Kullanici amazonda istedigi kelimeleri aratir" name="TC_001 Kullanici amazonda coklu arama yapar 4" time="0.006">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici amazon anasayfasina gider...................................undefined
+Then "mouse" icin arama yapar...............................................skipped
+Then kullanici arama sonucunu yazdirir......................................skipped
+Then kullanici sonucun "mouse" icerdigini dogrular..........................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="US_006 Kullanici amazonda istedigi kelimeleri aratir" name="Sayfayi kapat" time="0">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Then kullanici sayfayi kapatir..............................................undefined
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="US_007 Kullanici Coklu urle gider" name="TC_001" time="0.004">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici "amazonUrl" sayfasina gider.................................undefined
+Then kullanici 2 sn bekler..................................................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="US_007 Kullanici Coklu urle gider" name="TC_001_2" time="0">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici "faceUrl" sayfasina gider...................................undefined
+Then kullanici 2 sn bekler..................................................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="US_007 Kullanici Coklu urle gider" name="TC_001_3" time="0.001">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici "saudecoUrl" sayfasina gider................................undefined
+Then kullanici 2 sn bekler..................................................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="US_007 Kullanici Coklu urle gider" name="TC_001_4" time="0.001">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici "blueRentalUrl" sayfasina gider.............................undefined
+Then kullanici 2 sn bekler..................................................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="US_007 Kullanici Coklu urle gider" name="TC_001_5" time="0">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici "autoExerUrl" sayfasina gider...............................undefined
+Then kullanici 2 sn bekler..................................................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="US_007 Kullanici Coklu urle gider" name="sayfayi kapat" time="0.002">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici sayfayi kapatir.............................................undefined
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="Kullanici amazonda aramalar yapar" name="TC01 kullanici amazonda iPhone aratir" time="0.051">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici amazon anasayfasina gider...................................undefined
+Then kullanci iPhone aratir.................................................skipped
+And kullanici arama sonuclarinin iPhone icerdigini gorur....................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="Kullanici amazonda aramalar yapar" name="TC02 kullanici amazonda Selenium aratir" time="0.005">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici amazon anasayfasina gider...................................undefined
+Then kullanci selenium aratir...............................................skipped
+And kullanici arama sonuclarinin selenium icerdigini gorur..................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="Kullanici amazonda aramalar yapar" name="TC03 kullanici amazonda java aratir" time="0.005">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici amazon anasayfasina gider...................................undefined
+Then kullanci java aratir...................................................skipped
+And kullanici arama sonuclarinin java icerdigini gorur......................skipped
+And kullanici sayfayi kapatir...............................................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="TC001 negative login" name="TC001 kullanici yanlis kullanici adi ve sifre ile login olamaz" time="0.001">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici blue rental anasayfasina gider..............................undefined
+And kullanici  yanlis username "lll@gmail.com" girer........................skipped
+And kullanici yanlis password "1234" girer..................................skipped
+Then kullanici login butona tiklar..........................................skipped
+And kullanici login olamadigini gorur.......................................skipped
+And kullanici 2 sn bekler...................................................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="TC001 negative login" name="TC001 kullanici yanlis kullanici adi ve sifre ile login olamaz 2" time="0.035">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici blue rental anasayfasina gider..............................undefined
+And kullanici  yanlis username "kkk@gmail.com" girer........................skipped
+And kullanici yanlis password "4321" girer..................................skipped
+Then kullanici login butona tiklar..........................................skipped
+And kullanici login olamadigini gorur.......................................skipped
+And kullanici 2 sn bekler...................................................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="TC001 negative login" name="TC001 kullanici yanlis kullanici adi ve sifre ile login olamaz 3" time="0.002">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici blue rental anasayfasina gider..............................undefined
+And kullanici  yanlis username "ttt@gmail.com" girer........................skipped
+And kullanici yanlis password "1122" girer..................................skipped
+Then kullanici login butona tiklar..........................................skipped
+And kullanici login olamadigini gorur.......................................skipped
+And kullanici 2 sn bekler...................................................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="TC001 negative login" name="" time="0">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[And kullanici girilen sayfayi kapatir.......................................undefined
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="US_010_Guru_Web_Tables altinda" name="TC_010_kullanici_sutun_basligi_ile_liste_alabilmeli" time="0.001">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kulanici "guruUrl" anasayfasina gider.................................undefined
+And "Group"  sutunundaki tum degerleri yazdirir.............................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="US_010_Guru_Web_Tables altinda" name="TC_011 kullanci tum basliklardaki degerli alabilmeli" time="0.001">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kulanici "guruUrl" anasayfasina gider.................................undefined
+And "Company" altindaki degerleri yazdirir..................................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="US_010_Guru_Web_Tables altinda" name="TC_011 kullanci tum basliklardaki degerli alabilmeli 2" time="0.001">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kulanici "guruUrl" anasayfasina gider.................................undefined
+And "Group" altindaki degerleri yazdirir....................................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="US_010_Guru_Web_Tables altinda" name="TC_011 kullanci tum basliklardaki degerli alabilmeli 3" time="0">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kulanici "guruUrl" anasayfasina gider.................................undefined
+And "Prev Close (Rs)" altindaki degerleri yazdirir..........................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="US_010_Guru_Web_Tables altinda" name="TC_011 kullanci tum basliklardaki degerli alabilmeli 4" time="0">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kulanici "guruUrl" anasayfasina gider.................................undefined
+And "Current Price (Rs)" altindaki degerleri yazdirir.......................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="US_010_Guru_Web_Tables altinda" name="TC_011 kullanci tum basliklardaki degerli alabilmeli 5" time="0.004">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kulanici "guruUrl" anasayfasina gider.................................undefined
+And "% Change" altindaki degerleri yazdirir.................................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="US_010 Kullanici data ekleyebilmeli" name="TC_001 Kullanici sayfada 5 yeni kayit ekler" time="0.012">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[When kullanici "https://editor.datatables.net" adresine gider...............undefined
+Then new butonuna basar.....................................................skipped
+And tum bilgileri girer.....................................................skipped
+And Create tusuna basar.....................................................skipped
+When kullanici ilk isim ile arama yapar.....................................skipped
+Then isim bolumunde isminin oldugunu dogrular...............................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="TC001 amazonda farkli urunler arama" name="TC001 amazon arama testi" time="0.001">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici amazon anasayfasina gider...................................undefined
+And kullanci "iphone" icin arama yapar......................................skipped
+Then kullanici arama sonuclarinin "iphone" icerdigini gorur.................skipped
+And kullanici sayfayi kapatir...............................................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="TC001 amazonda farkli urunler arama" name="TC001 amazon arama testi 2" time="0.06">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici amazon anasayfasina gider...................................undefined
+And kullanci "java" icin arama yapar........................................skipped
+Then kullanici arama sonuclarinin "java" icerdigini gorur...................skipped
+And kullanici sayfayi kapatir...............................................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="TC001 amazonda farkli urunler arama" name="TC001 amazon arama testi 3" time="0.002">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici amazon anasayfasina gider...................................undefined
+And kullanci "mouse" icin arama yapar.......................................skipped
+Then kullanici arama sonuclarinin "mouse" icerdigini gorur..................skipped
+And kullanici sayfayi kapatir...............................................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="TC001 amazonda farkli urunler arama" name="TC001 amazon arama testi 4" time="0.001">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici amazon anasayfasina gider...................................undefined
+And kullanci "selenium" icin arama yapar....................................skipped
+Then kullanici arama sonuclarinin "selenium" icerdigini gorur...............skipped
+And kullanici sayfayi kapatir...............................................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="TC 001 trendyol ve morhipo" name="kullanici trendyol ve morhipoda ayni urunleri aratip sonuc adetlerini karlilastirir" time="0.003">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici Google'a gider..............................................undefined
+And kulannici trendyol'u aratir.............................................skipped
+And kullanici trendyol linkini bulup siteye gider...........................skipped
+And kullanci trendyolda makas aratir........................................skipped
+And kullanici toplam urun sayısını alir.....................................skipped
+And kullanici yeni sekmede morhipo'ya gider.................................skipped
+And kullanici morhipo sitesinde makas aratir................................skipped
+And kullanici morhipo toplam urun sayısını alir.............................skipped
+And kullanici iki sitedeki toplam makas sayisini karsilastirir..............skipped
+And kullanici once urun sayisi fazla olan siteyi kapatir....................skipped
+And kullanici sonra diger sayfayida kapatir.................................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="TC001 Tutorials sayfa testi" name="Tutorials sayfasinda urunleri sepete ekler" time="0.004">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given Kullanici tutorials anasaysaina gider.................................undefined
+Then Kullanici Phones & PDAs a tiklar.......................................skipped
+Then Kullanici telefon marka isimlerini log eder............................skipped
+Then Kullanici tum ogeleri sepete ekler.....................................skipped
+Then Kullanici sepete tiklar................................................skipped
+Then Kullanici sepetteki urun isimlerini log eder...........................skipped
+Then Kullanici sepet ve sayfadaki urunlerin ayni oldugunu dogrular..........skipped
+And Kullanici sayfayi kapatir...............................................skipped
+]]>
+        </failure>
+    </testcase>
+    <testcase classname="US014 Class Work" name="Kullanici ve Url Testi" time="0.003">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici "http://webdriveruniversity.com/" anasayfasinda.............undefined
+Then kullanici Login Portala kadar asagi iner...............................skipped
+And kullanici Login Portala tiklar..........................................skipped
+And kullanici diger windowa gecer...........................................skipped
+And kullanici "username" kutusuna bilgileri girer...........................skipped
+And kullanici "password" bolumune bilgileri girer...........................skipped
+And kullanici login butonuna basar..........................................skipped
+And kullanici Popup'ta cikan yazinin validation failed oldugunu test eder...skipped
+And kullanici Ok diyerek Popup'i kapatir....................................skipped
+And kullanici ilk sayfaya geri doner........................................skipped
+And kullanici ilk sayfaya donuldugunu test eder.............................skipped
+]]>
+        </failure>
+    </testcase>
+</testsuite>

@@ -1,0 +1,1919 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-28T16:11:20.235Z",
+        "line": 3,
+        "name": "TC_007 Test Cases",
+        "description": "",
+        "id": "tc-verify-test-cases;tc-007-test-cases",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "kullanici automationexercise.com urlsine gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "kullanici Ana sayfanin gorunur oldugunu dogrular",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "kullanici Test Case buttonu na tiklar",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3997500,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "kullanici Test Case sayfasina geldigini dogrular",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "kullanici ilgili sayfanin ekran goruntusunu alir",
+            "match": {},
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@AutoExercice"
+          }
+        ]
+      }
+    ],
+    "name": "Tc Verify Test Cases",
+    "description": "",
+    "id": "tc-verify-test-cases",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/Practice_TC_007.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "amazon sayfasina gitme",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "kullanici amazon anasayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-28T16:11:20.391Z",
+        "line": 6,
+        "name": "TC01 kullanici amazonda iPhone aratir",
+        "description": "",
+        "id": "us001-amazonda-search-background-ile;tc01-kullanici-amazonda-iphone-aratir",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1999800,
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "kullanci iPhone aratir",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4996100,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "kullanici arama sonuclarinin iPhone icerdigini gorur",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "amazon sayfasina gitme",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "kullanici amazon anasayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-28T16:11:20.432Z",
+        "line": 11,
+        "name": "TC02 kullanici amazonda Selenium aratir",
+        "description": "",
+        "id": "us001-amazonda-search-background-ile;tc02-kullanici-amazonda-selenium-aratir",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "kullanci selenium aratir",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 13,
+            "name": "kullanici arama sonuclarinin selenium icerdigini gorur",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "amazon sayfasina gitme",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "kullanici amazon anasayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-28T16:11:20.450Z",
+        "line": 16,
+        "name": "TC03 kullanici amazonda java aratir",
+        "description": "",
+        "id": "us001-amazonda-search-background-ile;tc03-kullanici-amazonda-java-aratir",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 17,
+            "name": "kullanci java aratir",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 18,
+            "name": "kullanici arama sonuclarinin java icerdigini gorur",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 28985400,
+              "status": "skipped"
+            },
+            "line": 19,
+            "name": "kullanici sayfayi kapatir",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "US001_Amazonda search background ile",
+    "description": "",
+    "id": "us001-amazonda-search-background-ile",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/US001_backGround.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-28T16:11:20.519Z",
+        "line": 2,
+        "name": "TC001 Kullanici amazonda parametreli arama yapar",
+        "description": "",
+        "id": "us002-parametre-kullanimi;tc001-kullanici-amazonda-parametreli-arama-yapar",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 3,
+            "name": "kullanici amazon anasayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "kullanici \"nutella \" icin arama yapar",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1006400,
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "sonuclarin \"nutella\" icerdigini test eder",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 992800,
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "kullanici sayfayi kapatir",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "US002 Parametre Kullanimi",
+    "description": "",
+    "id": "us002-parametre-kullanimi",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/US002_Parametre_Kullanimi.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-28T16:11:20.543Z",
+        "line": 11,
+        "name": "TC_001 Kullanici amazonda coklu arama yapar",
+        "description": "",
+        "id": "us-006-kullanici-amazonda-istedigi-kelimeleri-aratir;tc-001-kullanici-amazonda-coklu-arama-yapar;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "kullanici amazon anasayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "\"pencil\" icin arama yapar",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "kullanici arama sonucunu yazdirir",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "kullanici sonucun \"pencil\" icerdigini dogrular",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-28T16:11:20.606Z",
+        "line": 12,
+        "name": "TC_001 Kullanici amazonda coklu arama yapar",
+        "description": "",
+        "id": "us-006-kullanici-amazonda-istedigi-kelimeleri-aratir;tc-001-kullanici-amazonda-coklu-arama-yapar;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "kullanici amazon anasayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "\"milk\" icin arama yapar",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "kullanici arama sonucunu yazdirir",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 999100,
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "kullanici sonucun \"milk\" icerdigini dogrular",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-28T16:11:20.624Z",
+        "line": 13,
+        "name": "TC_001 Kullanici amazonda coklu arama yapar",
+        "description": "",
+        "id": "us-006-kullanici-amazonda-istedigi-kelimeleri-aratir;tc-001-kullanici-amazonda-coklu-arama-yapar;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "kullanici amazon anasayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "\"tomatoe\" icin arama yapar",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "kullanici arama sonucunu yazdirir",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "kullanici sonucun \"tomatoe\" icerdigini dogrular",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-28T16:11:20.636Z",
+        "line": 14,
+        "name": "TC_001 Kullanici amazonda coklu arama yapar",
+        "description": "",
+        "id": "us-006-kullanici-amazonda-istedigi-kelimeleri-aratir;tc-001-kullanici-amazonda-coklu-arama-yapar;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "kullanici amazon anasayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "\"mouse\" icin arama yapar",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "kullanici arama sonucunu yazdirir",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "kullanici sonucun \"mouse\" icerdigini dogrular",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-28T16:11:20.645Z",
+        "line": 16,
+        "name": "Sayfayi kapat",
+        "description": "",
+        "id": "us-006-kullanici-amazonda-istedigi-kelimeleri-aratir;sayfayi-kapat",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 17,
+            "name": "kullanici sayfayi kapatir",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "US_006 Kullanici amazonda istedigi kelimeleri aratir",
+    "description": "",
+    "id": "us-006-kullanici-amazonda-istedigi-kelimeleri-aratir",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/US_001_AmazonMultiSearch.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-28T16:11:20.667Z",
+        "line": 7,
+        "name": "TC_001",
+        "description": "",
+        "id": "us-007-kullanici-coklu-urle-gider;tc-001;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 3,
+            "name": "kullanici \"amazonUrl\" sayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "kullanici 2 sn bekler",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-28T16:11:20.678Z",
+        "line": 8,
+        "name": "TC_001",
+        "description": "",
+        "id": "us-007-kullanici-coklu-urle-gider;tc-001;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 3,
+            "name": "kullanici \"faceUrl\" sayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "kullanici 2 sn bekler",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-28T16:11:20.683Z",
+        "line": 9,
+        "name": "TC_001",
+        "description": "",
+        "id": "us-007-kullanici-coklu-urle-gider;tc-001;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 3,
+            "name": "kullanici \"saudecoUrl\" sayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "kullanici 2 sn bekler",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-28T16:11:20.692Z",
+        "line": 10,
+        "name": "TC_001",
+        "description": "",
+        "id": "us-007-kullanici-coklu-urle-gider;tc-001;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 3,
+            "name": "kullanici \"blueRentalUrl\" sayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "kullanici 2 sn bekler",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-28T16:11:20.696Z",
+        "line": 11,
+        "name": "TC_001",
+        "description": "",
+        "id": "us-007-kullanici-coklu-urle-gider;tc-001;;6",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 3,
+            "name": "kullanici \"autoExerUrl\" sayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "kullanici 2 sn bekler",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-28T16:11:20.699Z",
+        "line": 13,
+        "name": "sayfayi kapat",
+        "description": "",
+        "id": "us-007-kullanici-coklu-urle-gider;sayfayi-kapat",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 14,
+            "name": "kullanici sayfayi kapatir",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "US_007 Kullanici Coklu urle gider",
+    "description": "",
+    "id": "us-007-kullanici-coklu-urle-gider",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/US_007_MultiUrlScenarioOutline.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-28T16:11:20.734Z",
+        "line": 3,
+        "name": "TC01 kullanici amazonda iPhone aratir",
+        "description": "",
+        "id": "kullanici-amazonda-aramalar-yapar;tc01-kullanici-amazonda-iphone-aratir",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "kullanici amazon anasayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1000700,
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "kullanci iPhone aratir",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "kullanici arama sonuclarinin iPhone icerdigini gorur",
+            "match": {},
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@grup1"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-28T16:11:20.796Z",
+        "line": 9,
+        "name": "TC02 kullanici amazonda Selenium aratir",
+        "description": "",
+        "id": "kullanici-amazonda-aramalar-yapar;tc02-kullanici-amazonda-selenium-aratir",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "kullanici amazon anasayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1000600,
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "kullanci selenium aratir",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 999500,
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "kullanici arama sonuclarinin selenium icerdigini gorur",
+            "match": {},
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@grup3"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-28T16:11:20.809Z",
+        "line": 15,
+        "name": "TC03 kullanici amazonda java aratir",
+        "description": "",
+        "id": "kullanici-amazonda-aramalar-yapar;tc03-kullanici-amazonda-java-aratir",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 16,
+            "name": "kullanici amazon anasayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2000400,
+              "status": "skipped"
+            },
+            "line": 17,
+            "name": "kullanci java aratir",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 18,
+            "name": "kullanici arama sonuclarinin java icerdigini gorur",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 19,
+            "name": "kullanici sayfayi kapatir",
+            "match": {},
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@grup2"
+          }
+        ]
+      }
+    ],
+    "name": "Kullanici amazonda aramalar yapar",
+    "description": "",
+    "id": "kullanici-amazonda-aramalar-yapar",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/amazonSearch.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-28T16:11:20.823Z",
+        "line": 15,
+        "name": "TC001 kullanici yanlis kullanici adi ve sifre ile login olamaz",
+        "description": "",
+        "id": "tc001-negative-login;tc001-kullanici-yanlis-kullanici-adi-ve-sifre-ile-login-olamaz;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "kullanici blue rental anasayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "kullanici  yanlis username \"lll@gmail.com\" girer",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "kullanici yanlis password \"1234\" girer",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "kullanici login butona tiklar",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "kullanici login olamadigini gorur",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "kullanici 2 sn bekler",
+            "match": {},
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@rent1"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-28T16:11:20.833Z",
+        "line": 16,
+        "name": "TC001 kullanici yanlis kullanici adi ve sifre ile login olamaz",
+        "description": "",
+        "id": "tc001-negative-login;tc001-kullanici-yanlis-kullanici-adi-ve-sifre-ile-login-olamaz;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "kullanici blue rental anasayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 13990500,
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "kullanici  yanlis username \"kkk@gmail.com\" girer",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "kullanici yanlis password \"4321\" girer",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "kullanici login butona tiklar",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2000600,
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "kullanici login olamadigini gorur",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "kullanici 2 sn bekler",
+            "match": {},
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@rent1"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-28T16:11:20.878Z",
+        "line": 17,
+        "name": "TC001 kullanici yanlis kullanici adi ve sifre ile login olamaz",
+        "description": "",
+        "id": "tc001-negative-login;tc001-kullanici-yanlis-kullanici-adi-ve-sifre-ile-login-olamaz;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "kullanici blue rental anasayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "kullanici  yanlis username \"ttt@gmail.com\" girer",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "kullanici yanlis password \"1122\" girer",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "kullanici login butona tiklar",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "kullanici login olamadigini gorur",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "kullanici 2 sn bekler",
+            "match": {},
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@rent1"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-28T16:11:20.884Z",
+        "line": 20,
+        "name": "",
+        "description": "",
+        "id": "tc001-negative-login;",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 21,
+            "name": "kullanici girilen sayfayi kapatir",
+            "match": {},
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@rent2"
+          }
+        ]
+      }
+    ],
+    "name": "TC001 negative login",
+    "description": "",
+    "id": "tc001-negative-login",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/blueRentalCar.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-28T16:11:20.896Z",
+        "line": 3,
+        "name": "TC_010_kullanici_sutun_basligi_ile_liste_alabilmeli",
+        "description": "",
+        "id": "us-010-guru-web-tables-altinda;tc-010-kullanici-sutun-basligi-ile-liste-alabilmeli",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "kulanici \"guruUrl\" anasayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "\"Group\"  sutunundaki tum degerleri yazdirir",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-28T16:11:20.901Z",
+        "line": 13,
+        "name": "TC_011 kullanci tum basliklardaki degerli alabilmeli",
+        "description": "",
+        "id": "us-010-guru-web-tables-altinda;tc-011-kullanci-tum-basliklardaki-degerli-alabilmeli;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "kulanici \"guruUrl\" anasayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "\"Company\" altindaki degerleri yazdirir",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-28T16:11:20.908Z",
+        "line": 14,
+        "name": "TC_011 kullanci tum basliklardaki degerli alabilmeli",
+        "description": "",
+        "id": "us-010-guru-web-tables-altinda;tc-011-kullanci-tum-basliklardaki-degerli-alabilmeli;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "kulanici \"guruUrl\" anasayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "\"Group\" altindaki degerleri yazdirir",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-28T16:11:20.917Z",
+        "line": 15,
+        "name": "TC_011 kullanci tum basliklardaki degerli alabilmeli",
+        "description": "",
+        "id": "us-010-guru-web-tables-altinda;tc-011-kullanci-tum-basliklardaki-degerli-alabilmeli;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "kulanici \"guruUrl\" anasayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "\"Prev Close (Rs)\" altindaki degerleri yazdirir",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-28T16:11:20.927Z",
+        "line": 16,
+        "name": "TC_011 kullanci tum basliklardaki degerli alabilmeli",
+        "description": "",
+        "id": "us-010-guru-web-tables-altinda;tc-011-kullanci-tum-basliklardaki-degerli-alabilmeli;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "kulanici \"guruUrl\" anasayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "\"Current Price (Rs)\" altindaki degerleri yazdirir",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-28T16:11:20.960Z",
+        "line": 17,
+        "name": "TC_011 kullanci tum basliklardaki degerli alabilmeli",
+        "description": "",
+        "id": "us-010-guru-web-tables-altinda;tc-011-kullanci-tum-basliklardaki-degerli-alabilmeli;;6",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "kulanici \"guruUrl\" anasayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "\"% Change\" altindaki degerleri yazdirir",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "US_010_Guru_Web_Tables altinda",
+    "description": "",
+    "id": "us-010-guru-web-tables-altinda",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/demo_GuruTablesSutun.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-28T16:11:20.977Z",
+        "line": 2,
+        "name": "TC_001 Kullanici sayfada 5 yeni kayit ekler",
+        "description": "",
+        "id": "us-010-kullanici-data-ekleyebilmeli;tc-001-kullanici-sayfada-5-yeni-kayit-ekler",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "kullanici \"https://editor.datatables.net\" adresine gider",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "new butonuna basar",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "tum bilgileri girer",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "Create tusuna basar",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8994100,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "kullanici ilk isim ile arama yapar",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "isim bolumunde isminin oldugunu dogrular",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "US_010 Kullanici data ekleyebilmeli",
+    "description": "",
+    "id": "us-010-kullanici-data-ekleyebilmeli",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/editorDataTablesNet.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-28T16:11:21.014Z",
+        "line": 10,
+        "name": "TC001 amazon arama testi",
+        "description": "",
+        "id": "tc001-amazonda-farkli-urunler-arama;tc001-amazon-arama-testi;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "kullanici amazon anasayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "kullanci \"iphone\" icin arama yapar",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "kullanici arama sonuclarinin \"iphone\" icerdigini gorur",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "kullanici sayfayi kapatir",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-28T16:11:21.021Z",
+        "line": 11,
+        "name": "TC001 amazon arama testi",
+        "description": "",
+        "id": "tc001-amazonda-farkli-urunler-arama;tc001-amazon-arama-testi;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "kullanici amazon anasayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "kullanci \"java\" icin arama yapar",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 997100,
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "kullanici arama sonuclarinin \"java\" icerdigini gorur",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1002500,
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "kullanici sayfayi kapatir",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-28T16:11:21.093Z",
+        "line": 12,
+        "name": "TC001 amazon arama testi",
+        "description": "",
+        "id": "tc001-amazonda-farkli-urunler-arama;tc001-amazon-arama-testi;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "kullanici amazon anasayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 999600,
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "kullanci \"mouse\" icin arama yapar",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "kullanici arama sonuclarinin \"mouse\" icerdigini gorur",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "kullanici sayfayi kapatir",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-28T16:11:21.101Z",
+        "line": 13,
+        "name": "TC001 amazon arama testi",
+        "description": "",
+        "id": "tc001-amazonda-farkli-urunler-arama;tc001-amazon-arama-testi;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "kullanici amazon anasayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "kullanci \"selenium\" icin arama yapar",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "kullanici arama sonuclarinin \"selenium\" icerdigini gorur",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "kullanici sayfayi kapatir",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "TC001 amazonda farkli urunler arama",
+    "description": "",
+    "id": "tc001-amazonda-farkli-urunler-arama",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/scenarioOutline.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-28T16:11:21.118Z",
+        "line": 2,
+        "name": "kullanici trendyol ve morhipoda ayni urunleri aratip sonuc adetlerini karlilastirir",
+        "description": "",
+        "id": "tc-001-trendyol-ve-morhipo;kullanici-trendyol-ve-morhipoda-ayni-urunleri-aratip-sonuc-adetlerini-karlilastirir",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "kullanici Google\u0027a gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "kulannici trendyol\u0027u aratir",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "kullanici trendyol linkini bulup siteye gider",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "kullanci trendyolda makas aratir",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 999900,
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "kullanici toplam urun sayısını alir",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "kullanici yeni sekmede morhipo\u0027ya gider",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "kullanici morhipo sitesinde makas aratir",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "kullanici morhipo toplam urun sayısını alir",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 13,
+            "name": "kullanici iki sitedeki toplam makas sayisini karsilastirir",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 14,
+            "name": "kullanici once urun sayisi fazla olan siteyi kapatir",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1000300,
+              "status": "skipped"
+            },
+            "line": 15,
+            "name": "kullanici sonra diger sayfayida kapatir",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "TC 001 trendyol ve morhipo",
+    "description": "",
+    "id": "tc-001-trendyol-ve-morhipo",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/trendyolMorhipo.feature",
+    "tags": []
+  },
+  {
+    "line": 9,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-28T16:11:21.135Z",
+        "line": 11,
+        "name": "Tutorials sayfasinda urunleri sepete ekler",
+        "description": "",
+        "id": "tc001-tutorials-sayfa-testi;tutorials-sayfasinda-urunleri-sepete-ekler",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 13,
+            "name": "Kullanici tutorials anasaysaina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 14,
+            "name": "Kullanici Phones \u0026 PDAs a tiklar",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 15,
+            "name": "Kullanici telefon marka isimlerini log eder",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 16,
+            "name": "Kullanici tum ogeleri sepete ekler",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 17,
+            "name": "Kullanici sepete tiklar",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 18,
+            "name": "Kullanici sepetteki urun isimlerini log eder",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 19,
+            "name": "Kullanici sepet ve sayfadaki urunlerin ayni oldugunu dogrular",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 20,
+            "name": "Kullanici sayfayi kapatir",
+            "match": {},
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tutorialNinja"
+          }
+        ]
+      }
+    ],
+    "name": "TC001 Tutorials sayfa testi",
+    "description": "",
+    "id": "tc001-tutorials-sayfa-testi",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/tutorials.feature",
+    "tags": []
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-28T16:11:21.148Z",
+        "line": 3,
+        "name": "Kullanici ve Url Testi",
+        "description": "",
+        "id": "us014-class-work;kullanici-ve-url-testi",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "kullanici \"http://webdriveruniversity.com/\" anasayfasinda",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1001600,
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "kullanici Login Portala kadar asagi iner",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "kullanici Login Portala tiklar",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "kullanici diger windowa gecer",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "kullanici \"username\" kutusuna bilgileri girer",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "kullanici \"password\" bolumune bilgileri girer",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "kullanici login butonuna basar",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "kullanici Popup\u0027ta cikan yazinin validation failed oldugunu test eder",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "kullanici Ok diyerek Popup\u0027i kapatir",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 13,
+            "name": "kullanici ilk sayfaya geri doner",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 14,
+            "name": "kullanici ilk sayfaya donuldugunu test eder",
+            "match": {},
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@web"
+          }
+        ]
+      }
+    ],
+    "name": "US014 Class Work",
+    "description": "",
+    "id": "us014-class-work",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/webDriverUniversity.feature",
+    "tags": [
+      {
+        "name": "@web",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

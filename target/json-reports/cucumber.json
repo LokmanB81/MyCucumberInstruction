@@ -1,0 +1,106 @@
+[
+  {
+    "line": 9,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-28T16:11:20.589Z",
+        "line": 11,
+        "name": "Tutorials sayfasinda urunleri sepete ekler",
+        "description": "",
+        "id": "tc001-tutorials-sayfa-testi;tutorials-sayfasinda-urunleri-sepete-ekler",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 13,
+            "name": "Kullanici tutorials anasaysaina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 999200,
+              "status": "skipped"
+            },
+            "line": 14,
+            "name": "Kullanici Phones \u0026 PDAs a tiklar",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1000700,
+              "status": "skipped"
+            },
+            "line": 15,
+            "name": "Kullanici telefon marka isimlerini log eder",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2997400,
+              "status": "skipped"
+            },
+            "line": 16,
+            "name": "Kullanici tum ogeleri sepete ekler",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1000200,
+              "status": "skipped"
+            },
+            "line": 17,
+            "name": "Kullanici sepete tiklar",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 18,
+            "name": "Kullanici sepetteki urun isimlerini log eder",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 19,
+            "name": "Kullanici sepet ve sayfadaki urunlerin ayni oldugunu dogrular",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 14990000,
+              "status": "skipped"
+            },
+            "line": 20,
+            "name": "Kullanici sayfayi kapatir",
+            "match": {},
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tutorialNinja"
+          }
+        ]
+      }
+    ],
+    "name": "TC001 Tutorials sayfa testi",
+    "description": "",
+    "id": "tc001-tutorials-sayfa-testi",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/tutorials.feature",
+    "tags": []
+  }
+]

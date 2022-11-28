@@ -1,0 +1,8 @@
+***************************************************
+//*[contains(text(), 'Authentication information not correct.')]
+contains text() olayı tum web elementleri icinde,
+icerisinde text olarak 'şu'  text i iceren locateleri bul diyor.
+bunu baska bir text icerigi ile aranan metni değistirerek te kullanabiliriz
+olumsuzu;
+//*[not(contains(text(), 'Authentication information not correct.'))]
+********************************************************
